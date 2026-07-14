@@ -1,3 +1,7 @@
+Created by : "Muhammad Saad Hassan"
+Deployed App Link : https://ai-recruitment-assistant-hedyheggtedh9ap7ow6esc.streamlit.app/
+
+
 # AI Recruitment Assistant Dashboard
 
 A Streamlit app that helps HR screen resumes automatically. Upload a
