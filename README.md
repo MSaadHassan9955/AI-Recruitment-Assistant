@@ -1,5 +1,7 @@
 Created by : "Muhammad Saad Hassan"
 
+Youtube Video Link : https://youtu.be/G4tlvEwwzoE
+
 Deployed App Link : https://ai-recruitment-assistant-hedyheggtedh9ap7ow6esc.streamlit.app/
 
 
